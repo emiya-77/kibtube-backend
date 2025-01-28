@@ -1,2 +1,2 @@
 # kib-tube
-This is my (kib's) first complete backend project with javascript
+This is a complete youtube clone backend project with javascript
