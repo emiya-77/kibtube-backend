@@ -1,3 +1,4 @@
+// Promise for handling request
 const asyncHandler = (requestHandler) => {
     (req, res, next) => {
         Promise
